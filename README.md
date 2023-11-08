@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Um formulário de contato em seu site facilita a comunicação de seus clientes e pessoas que têm interesse em seu negócio. Sua implementação é bastante simples e usual. Criei um formulário de contato para receber mensagens do lead em forma de e-mails, com nome do cliente e uma descrição sobre o assunto do seu "interesse". foi feito de forma simples usando PHP Vanilla(puro) e Boostrap para a parte Visual.
+Um formulário de contato em seu site facilita a comunicação de seus clientes e pessoas que têm interesse em seu negócio. Sua implementação é bastante simples e usual. Com base nisso eu criei um formulário de contato para receber mensagens do lead em forma de e-mails, com nome do cliente e uma descrição sobre o assunto do seu "interesse". foi feito de forma simples usando PHP Vanilla(puro) e Boostrap para a parte Visual.
 
 # Tecnologias utilizadas
 
